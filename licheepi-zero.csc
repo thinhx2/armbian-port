@@ -1,0 +1,10 @@
+# LicheePi Zero (Allwinner) V3S integrated 64M RAM SoC
+BOARD_NAME="LicheePi Zero"
+BOARD_VENDOR="sipeed"
+BOARDFAMILY="sun8i-v3s"
+BOARD_MAINTAINER="thinhx2"
+INTRODUCED="2020"
+KERNEL_TARGET="current,edge,legacy"
+KERNEL_TEST_TARGET="current"
+BOOTCONFIG="LicheePi_Zero_defconfig"
+HAS_VIDEO_OUTPUT="no"
